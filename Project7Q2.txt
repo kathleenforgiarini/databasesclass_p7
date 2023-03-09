@@ -1,0 +1,60 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYHH:MI:SS')               
+-----------------------------------------------------
+08 Março     2023 06:33:31
+
+
+Procedure P6QUESTION2 compilado
+
+Consultant ID: 100
+Name: Mark Myers
+Skills:
+  Skill Description: VB .NET Programming
+  Certified: Y
+  Skill Description: Java Programming
+  Certified: Y
+  Skill Description: Oracle Developer Programming
+  Certified: Y
+Consultant ID: 101
+Name: Sheila Hernandez
+Skills:
+  Skill Description: Project Management
+  Certified: N
+  Skill Description: Web Application Programming
+  Certified: N
+Consultant ID: 102
+Name: Brian Zhang
+Skills:
+  Skill Description: Oracle Database Administration
+  Certified: Y
+Consultant ID: 103
+Name: Sarah Carlson
+Skills:
+  Skill Description: VB .NET Programming
+  Certified: Y
+  Skill Description: Oracle Developer Programming
+  Certified: Y
+  Skill Description: Windows NT/2000 Network Administration
+  Certified: Y
+  Skill Description: Windows XP Network Administration
+  Certified: Y
+Consultant ID: 104
+Name: Paul Courtlandt
+Skills:
+  Skill Description: Windows NT/2000 Network Administration
+  Certified: N
+  Skill Description: Windows XP Network Administration
+  Certified: Y
+Consultant ID: 105
+Name: Janet Park
+Skills:
+  Skill Description: COBOL Programming
+  Certified: N
+  Skill Description: Java Programming
+  Certified: N
+  Skill Description: Project Management
+  Certified: Y
+
+
+Procedimento PL/SQL concluído com sucesso.
+

@@ -1,0 +1,51 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYHH:MI:SS')               
+-----------------------------------------------------
+08 Março     2023 07:40:31
+
+
+Procedure P6QUESTION4 compilado
+
+Item number: 1. Description: Men's Expedition Parka. Value: 28712,85. Category: 3
+Inventory number 23; The price is 199,95. Quantity:  114
+Inventory number 24; The price is 199,95. Quantity:  17
+Inventory number 25; The price is 209,95. Quantity:  0
+Inventory number 26; The price is 209,95. Quantity:  12
+Item number: 2. Description: 3-Season Tent. Value: 7279,72. Category: 4
+Inventory number 1; The price is 259,99. Quantity:  16
+Inventory number 2; The price is 259,99. Quantity:  12
+Item number: 3. Description: Women's Hiking Shorts. Value: 20605,6. Category: 1
+Inventory number 3; The price is 29,95. Quantity:  150
+Inventory number 4; The price is 29,95. Quantity:  147
+Inventory number 5; The price is 29,95. Quantity:  0
+Inventory number 6; The price is 29,95. Quantity:  139
+Inventory number 7; The price is 29,95. Quantity:  137
+Inventory number 8; The price is 29,95. Quantity:  115
+Item number: 4. Description: Women's Fleece Pullover. Value: 43523,7. Category: 1
+Inventory number 9; The price is 59,95. Quantity:  135
+Inventory number 10; The price is 59,95. Quantity:  168
+Inventory number 11; The price is 59,95. Quantity:  187
+Inventory number 12; The price is 59,95. Quantity:  0
+Inventory number 13; The price is 59,95. Quantity:  124
+Inventory number 14; The price is 59,95. Quantity:  112
+Item number: 5. Description: Children's Beachcomber Sandals. Value: 16117,92. Category: 2
+Inventory number 15; The price is 15,99. Quantity:  121
+Inventory number 16; The price is 15,99. Quantity:  111
+Inventory number 17; The price is 15,99. Quantity:  113
+Inventory number 18; The price is 15,99. Quantity:  121
+Inventory number 19; The price is 15,99. Quantity:  148
+Inventory number 20; The price is 15,99. Quantity:  137
+Inventory number 21; The price is 15,99. Quantity:  134
+Inventory number 22; The price is 15,99. Quantity:  123
+Item number: 6. Description: Boy's Surf Shorts. Value: 3987,5. Category: 2
+Inventory number 27; The price is 15,95. Quantity:  50
+Inventory number 28; The price is 15,95. Quantity:  100
+Inventory number 29; The price is 15,95. Quantity:  100
+Item number: 7. Description: Girl's Soccer Tee. Value: 5997. Category: 2
+Inventory number 30; The price is 19,99. Quantity:  100
+Inventory number 31; The price is 19,99. Quantity:  100
+Inventory number 32; The price is 19,99. Quantity:  100
+
+
+Procedimento PL/SQL concluído com sucesso.
+

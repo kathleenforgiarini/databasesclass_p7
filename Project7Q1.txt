@@ -1,0 +1,56 @@
+
+TO_CHAR(SYSDATE,'DDMONTHYYYYHH:MI:SS')               
+-----------------------------------------------------
+08 Março     2023 05:53:34
+
+
+Procedure P6QUESTION1 compilado
+
+Faculty ID: 1
+Name: Kim Cox
+Rank: ASSO
+Students Advised:
+  Student ID: 1
+  Name: Sarah Miller
+  Birthdate: 14/07/85
+  Class: SR
+  Student ID: 2
+  Name: Brian Umato
+  Birthdate: 19/08/85
+  Class: SR
+  Student ID: 3
+  Name: Daniel Black
+  Birthdate: 10/10/82
+  Class: JR
+Faculty ID: 2
+Name: John Blanchard
+Rank: FULL
+Students Advised:
+  Student ID: 4
+  Name: Amanda Mobley
+  Birthdate: 24/09/86
+  Class: SO
+Faculty ID: 3
+Name: Jerry Williams
+Rank: ASST
+Students Advised:
+  Student ID: 6
+  Name: Michael Connoly
+  Birthdate: 04/12/86
+  Class: FR
+Faculty ID: 4
+Name: Laura Sheng
+Rank: INST
+Students Advised:
+  Student ID: 5
+  Name: Ruben Sanchez
+  Birthdate: 20/11/86
+  Class: SO
+Faculty ID: 5
+Name: Philip Brown
+Rank: ASSO
+Students Advised:
+
+
+Procedimento PL/SQL concluído com sucesso.
+
